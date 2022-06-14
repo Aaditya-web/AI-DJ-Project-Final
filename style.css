@@ -1,0 +1,11 @@
+canvas 
+{
+    box-shadow: 5px 8px 5px aquamarine;
+    border-radius:15px;
+    border-width: 7px;
+
+}
+
+body{
+    background-size: cover;
+}
